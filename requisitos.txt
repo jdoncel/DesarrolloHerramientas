@@ -1,0 +1,15 @@
+Searchsploit - sudo git clone https://github.com/offensive-security/exploitdb.git /opt/exploitdb ; sudo ln -sf /opt/exploitdb/searchsploit /usr/local/bin/searchsploit
+
+
+Python3 -  sudo apt-get update; sudo apt-get install python3.6
+
+
+Wappalyzer -  pip install python-wappalyzer
+email.policy - libreria estandar Linux python3
+pprint - pip install pprintpp
+requests - sudo apt-get install python3-requests
+argparse - sudo apt-get install -y python-argparse
+sys - libreria estandar Linux python3
+time - libreria estandar Linux python3
+warnings - libreria estandar Linux Python3
+subprocess - pip install subprocess.run
